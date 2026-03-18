@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Creospark**
 
-- 👨‍💻 All of my projects are available at [shreyashmishra.vercel.app](shreyashmishra.vercel.app)
+- 👨‍💻 All of my projects are available at [shreyashmishra.vercel.app](https://shreyashmishra.vercel.app)
 
 - 📫 How to reach me **s72mishr@uwaterloo.ca**
 
