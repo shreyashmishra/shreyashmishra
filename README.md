@@ -5,6 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=shreyashmishra&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashmishra" />
 </p>
 
-- 🔭 I’m currently working at **Creospark**
+- 🔭 prev @**Creospark**
 - 👨‍💻 Check out my projects at **[shreyashmishra.vercel.app](https://shreyashmishra.vercel.app)**
 - 📫 Reach me at **s72mishr@uwaterloo.ca**
